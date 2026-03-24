@@ -1,0 +1,1 @@
+import{av as e}from"./index-BrPOWOUr.js";const u=t=>e({url:"/dqc/otcQuote/list",method:"get",params:t}),c=t=>e({url:"/dqc/otcQuote/"+t,method:"get"}),r=t=>e({url:"/dqc/otcQuote",method:"post",data:t}),d=t=>e({url:"/dqc/otcQuote",method:"put",data:t}),s=t=>e({url:"/dqc/otcQuote/"+t,method:"delete"});export{r as a,s as d,c as g,u as l,d as u};

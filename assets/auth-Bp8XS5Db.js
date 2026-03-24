@@ -1,0 +1,1 @@
+import{av as n}from"./index-BrPOWOUr.js";function a(t,o){return n({url:"/auth/binding/"+t,method:"get",params:{tenantId:o,domain:window.location.host}})}function i(t){return n({url:"/auth/unlock/"+t,method:"delete"})}function u(){return n({url:"/system/social/list",method:"get"})}export{i as a,a as b,u as g};

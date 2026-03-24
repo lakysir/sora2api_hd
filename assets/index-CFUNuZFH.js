@@ -1,0 +1,1 @@
+import{av as i}from"./index-BrPOWOUr.js";const d=e=>i({url:"/biz/medicine/list",method:"get",params:e}),n=e=>i({url:"/biz/medicine/"+e,method:"get"}),r=e=>i({url:"/biz/medicine",method:"post",data:e}),c=e=>i({url:"/biz/medicine",method:"put",data:e}),s=e=>i({url:"/biz/medicine/"+e,method:"delete"});export{r as a,s as d,n as g,d as l,c as u};

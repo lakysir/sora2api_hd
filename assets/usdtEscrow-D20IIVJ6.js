@@ -1,0 +1,1 @@
+import{av as r}from"./index-BrPOWOUr.js";function s(t){return r({url:"/dqc/usdt-escrow/deposit",method:"post",data:t})}function e(t){return r({url:"/dqc/usdt-escrow/withdraw",method:"post",data:t})}function d(){return r({url:"/dqc/usdt-escrow/balance",method:"get"})}export{s as d,d as g,e as w};

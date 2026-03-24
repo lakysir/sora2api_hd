@@ -1,0 +1,1 @@
+import{av as e}from"./index-BrPOWOUr.js";const o=t=>e({url:"/biz/category/list",method:"get",params:t}),a=t=>e({url:"/biz/category/"+t,method:"get"}),s=t=>e({url:"/biz/category",method:"post",data:t}),g=t=>e({url:"/biz/category",method:"put",data:t}),u=t=>e({url:"/biz/category/"+t,method:"delete"});export{s as a,u as d,a as g,o as l,g as u};

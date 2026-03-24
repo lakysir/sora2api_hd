@@ -1,0 +1,1 @@
+import{_ as o}from"./index.vue_vue_type_script_setup_true_lang-DEGsVeVa.js";import{d as r,r as t,c,o as l,k as i,a5 as m,e as p}from"./index-BrPOWOUr.js";const k=r({__name:"index",setup(_){const e=t("/admin/applications");return(f,n)=>{const a=o;return l(),c("div",null,[i(a,{src:p(e),"onUpdate:src":n[0]||(n[0]=s=>m(e)?e.value=s:null)},null,8,["src"])])}}});export{k as default};

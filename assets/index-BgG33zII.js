@@ -1,0 +1,1 @@
+import{av as e}from"./index-BrPOWOUr.js";const r=t=>e({url:"/biz/agentTb/list",method:"get",params:t}),a=t=>e({url:"/biz/agentTb/"+t,method:"get"}),s=t=>e({url:"/biz/agentTb",method:"post",data:t}),b=t=>e({url:"/biz/agentTb",method:"put",data:t}),g=t=>e({url:"/biz/agentTb/"+t,method:"delete"});export{s as a,g as d,a as g,r as l,b as u};

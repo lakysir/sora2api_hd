@@ -1,0 +1,1 @@
+import{av as e}from"./index-BrPOWOUr.js";const t=a=>e({url:"/dqc/walletBalance/list",method:"get",params:a}),c=a=>e({url:"/dqc/walletBalance/"+a,method:"get"}),n=a=>e({url:"/dqc/walletBalance",method:"post",data:a}),r=a=>e({url:"/dqc/walletBalance",method:"put",data:a}),d=a=>e({url:"/dqc/walletBalance/"+a,method:"delete"});export{n as a,d,c as g,t as l,r as u};

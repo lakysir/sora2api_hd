@@ -1,0 +1,1 @@
+import{av as t}from"./index-BrPOWOUr.js";const a=r=>t({url:"/biz/manufacturer/list",method:"get",params:r}),e=r=>t({url:"/biz/manufacturer/"+r,method:"get"}),n=r=>t({url:"/biz/manufacturer",method:"post",data:r}),c=r=>t({url:"/biz/manufacturer",method:"put",data:r}),s=r=>t({url:"/biz/manufacturer/"+r,method:"delete"});export{n as a,s as d,e as g,a as l,c as u};

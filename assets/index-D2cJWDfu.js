@@ -1,0 +1,1 @@
+import{av as t}from"./index-BrPOWOUr.js";const r=e=>t({url:"/dqc/videoProject/list",method:"get",params:e}),d=e=>t({url:"/dqc/videoProject/"+e,method:"get"}),c=e=>t({url:"/dqc/videoProject",method:"post",data:e}),s=e=>t({url:"/dqc/videoProject",method:"put",data:e}),i=e=>t({url:"/dqc/videoProject/"+e,method:"delete"});export{c as a,i as d,d as g,r as l,s as u};
